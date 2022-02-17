@@ -1,2 +1,2 @@
 # VirtualAssistant
-Need to install Pyaudio,wikipedia,pytts,speechrecognition etc
+Need to install Pyaudio,wikipedia,pytts,speechrecognition dependencies
